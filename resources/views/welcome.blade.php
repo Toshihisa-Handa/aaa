@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Larave5.8
+                    Larave6
                 </div>
 
                 <div class="links">
